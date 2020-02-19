@@ -11,5 +11,5 @@ while [ 1 ]
     sec=$(($duration % 60))
     echo "$min minutes and $sec seconds elapsed."
     echo "The program has been running $value times so far."
-    /home/seed/host/buffer-overflow/stack
+    /home/seed/Desktop/buffer-overflow/stack
 done
